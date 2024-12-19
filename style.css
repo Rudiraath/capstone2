@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    text-align: center;
+    display: block;
+    background-color: pink;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+ 
+.blue-font {
+    color: #66bfbf;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h1 {
+    font-size: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
